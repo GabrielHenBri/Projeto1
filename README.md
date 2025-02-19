@@ -50,9 +50,3 @@ Mapa Atual:
 Informe a direção que deseja mover (cima, baixo, esquerda, direita): direita
 ```
 
-## Autor
-Desenvolvido por [Seu Nome].
-
-## Licença
-Este projeto está sob a licença MIT.
-
